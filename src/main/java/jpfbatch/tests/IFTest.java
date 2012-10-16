@@ -4,12 +4,12 @@
  */
 package jpfbatch.tests;
 
-import ifepson.commands.abrirTique;
-import ifepson.commands.cerrarTique;
-import ifepson.commands.imprItemTique;
-import ifepson.commands.imprTxtFiscTique;
-import ifepson.commands.pagoCancelDescRecaTique;
-import ifepson.commands.subtotalTique;
+import ifepson.commands.AbrirTique;
+import ifepson.commands.CerrarTique;
+import ifepson.commands.ImprItemTique;
+import ifepson.commands.ImprTxtFiscTique;
+import ifepson.commands.PagoCancelDescRecaTique;
+import ifepson.commands.SubtotalTique;
 import ifepson.doc.IndexedOut;
 import ifepson.IfCommand;
 import java.io.IOException;
@@ -41,52 +41,52 @@ public class IFTest {
         
         IfCommand c = null;
 
-        c = new abrirTique();
+        c = new AbrirTique();
 
         ifb.addCommand(c);
 
-        c = new imprTxtFiscTique();
+        c = new ImprTxtFiscTique();
 
-        ((imprTxtFiscTique) c).setLineaExtra("linea extra");
-
-        ifb.addCommand(c);
-
-        c = new imprItemTique();
-
-        ((imprItemTique) c).setBultos(1);
-        ((imprItemTique) c).setCalificador(imprItemTique.CalificadorItem.MONTO_AGREGADO_O_VENTA_SUMA);
-        ((imprItemTique) c).setCantidad(0.01d);
-        ((imprItemTique) c).setDescripcionProducto("item de linea");
-        ((imprItemTique) c).setPrecioUnitario(10);
-        ((imprItemTique) c).setIva(21d);
+        ((ImprTxtFiscTique) c).setLineaExtra("linea extra");
 
         ifb.addCommand(c);
 
-        c = new subtotalTique();
+        c = new ImprItemTique();
+
+        ((ImprItemTique) c).setBultos(1);
+        ((ImprItemTique) c).setCalificador(ImprItemTique.CalificadorItem.MONTO_AGREGADO_O_VENTA_SUMA);
+        ((ImprItemTique) c).setCantidad(0.01d);
+        ((ImprItemTique) c).setDescripcionProducto("item de linea");
+        ((ImprItemTique) c).setPrecioUnitario(10);
+        ((ImprItemTique) c).setIva(21d);
 
         ifb.addCommand(c);
 
-        c = new pagoCancelDescRecaTique();
-
-        ((pagoCancelDescRecaTique) c).setCalificador(pagoCancelDescRecaTique.Calificador.DESCUENTO);
-
-        ((pagoCancelDescRecaTique) c).setDescripcionEnTique("POR SER MUY FEO");
-
-        ((pagoCancelDescRecaTique) c).setMonto(0.05d);
+        c = new SubtotalTique();
 
         ifb.addCommand(c);
 
-        c = new pagoCancelDescRecaTique();
+        c = new PagoCancelDescRecaTique();
 
-        ((pagoCancelDescRecaTique) c).setCalificador(pagoCancelDescRecaTique.Calificador.SUMA_IMPORTE_PAGADO);
+        ((PagoCancelDescRecaTique) c).setCalificador(PagoCancelDescRecaTique.Calificador.DESCUENTO);
 
-        ((pagoCancelDescRecaTique) c).setDescripcionEnTique("EFECTIVO");
+        ((PagoCancelDescRecaTique) c).setDescripcionEnTique("POR SER MUY FEO");
 
-        ((pagoCancelDescRecaTique) c).setMonto(0.05d);
+        ((PagoCancelDescRecaTique) c).setMonto(0.05d);
 
         ifb.addCommand(c);
 
-        c = new cerrarTique();
+        c = new PagoCancelDescRecaTique();
+
+        ((PagoCancelDescRecaTique) c).setCalificador(PagoCancelDescRecaTique.Calificador.SUMA_IMPORTE_PAGADO);
+
+        ((PagoCancelDescRecaTique) c).setDescripcionEnTique("EFECTIVO");
+
+        ((PagoCancelDescRecaTique) c).setMonto(0.05d);
+
+        ifb.addCommand(c);
+
+        c = new CerrarTique();
 
         ifb.addCommand(c);
         

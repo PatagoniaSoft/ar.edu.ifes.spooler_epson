@@ -12,9 +12,9 @@ import gnu.io.UnsupportedCommOperationException;
 import ifepson.IfException;
 import ifepson.IFReturnValue;
 import ifepson.IfCommand;
-import ifepson.commands.pagoCancelDescRecaFNC;
-import ifepson.commands.pagoCancelDescRecaTique.Calificador;
-import ifepson.commands.solEstado;
+import ifepson.commands.PagoCancelDescRecaFNC;
+import ifepson.commands.PagoCancelDescRecaTique.Calificador;
+import ifepson.commands.SolEstado;
 import ifepson.doc.DataType;
 import ifepson.doc.IndexedOut;
 import ifepson.doc.Parametro;
@@ -327,8 +327,8 @@ public class IfBatch {
 
                     Logger.getLogger(IfBatch.class).log(Level.DEBUG, "Intentando cancelar comprobante tiquet");
 
-                    comm = new ifepson.commands.pagoCancelDescRecaTique();
-                    ((ifepson.commands.pagoCancelDescRecaTique) comm).setCalificador(Calificador.CANCELAR_COMPROBANTE);
+                    comm = new ifepson.commands.PagoCancelDescRecaTique();
+                    ((ifepson.commands.PagoCancelDescRecaTique) comm).setCalificador(Calificador.CANCELAR_COMPROBANTE);
                     if (port == null) {
                         retComm = comm.ejecutar(this.getPortConfig(), getSerial());
                     } else {
@@ -340,8 +340,8 @@ public class IfBatch {
 
                     Logger.getLogger(IfBatch.class).log(Level.DEBUG, "Intentando cancelar comprobante factura / nota credito");
 
-                    comm = new ifepson.commands.pagoCancelDescRecaFNC();
-                    ((ifepson.commands.pagoCancelDescRecaFNC) comm).setCalificador(pagoCancelDescRecaFNC.Calificador.CANCELAR_COMPROBANTE);
+                    comm = new ifepson.commands.PagoCancelDescRecaFNC();
+                    ((ifepson.commands.PagoCancelDescRecaFNC) comm).setCalificador(PagoCancelDescRecaFNC.Calificador.CANCELAR_COMPROBANTE);
                     if (port == null) {
                         retComm = comm.ejecutar(portConfig, getSerial());
                     } else {
@@ -374,7 +374,7 @@ public class IfBatch {
 
         }
 
-        IfCommand fin = new solEstado();
+        IfCommand fin = new SolEstado();
         if (this.secuencia != 127) {
             fin.setSecuencia((byte) 127);
         } else {

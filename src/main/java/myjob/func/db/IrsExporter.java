@@ -13,7 +13,7 @@ import java.sql.ResultSet;
  */
 public interface IrsExporter {
 
-    public void Escribir(exportEventArgs evt) throws IOException;
+    public void Escribir(ExportEventArgs evt) throws IOException;
 
     public void escribir(String fileName, DataTable tabla) throws IOException;
 

@@ -25,7 +25,7 @@ import myjob.func.io.PortConfig;
  */
 public class TCPServer {
 
-    List<clientThread> clientes = new ArrayList<clientThread>();
+    List<ClientThread> clientes = new ArrayList<ClientThread>();
     int timeOut = 1000;
     PortConfig portConfig;
 
@@ -56,7 +56,7 @@ public class TCPServer {
             
             clientSocket = serverSocket.accept();
 
-            clientThread ct = new clientThread(clientSocket, "cliente" + clientes.size(), this.timeOut, this.portConfig);
+            ClientThread ct = new ClientThread(clientSocket, "cliente" + clientes.size(), this.timeOut, this.portConfig);
 
             clientes.add(ct);
 
