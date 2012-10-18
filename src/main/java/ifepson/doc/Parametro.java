@@ -5,7 +5,32 @@
 
 package ifepson.doc;
 
-import ifepson.commands.*;
+import ifepson.commands.AbrirFNC;
+import ifepson.commands.AbrirTique;
+import ifepson.commands.AvanzaHojaSuelta;
+import ifepson.commands.AvanzaTique;
+import ifepson.commands.CerrarDNF;
+import ifepson.commands.CerrarFNC;
+import ifepson.commands.CerrarTique;
+import ifepson.commands.CierreXZ;
+import ifepson.commands.DNFHTarjetaCredito;
+import ifepson.commands.ImprItemFNC;
+import ifepson.commands.ImprItemTique;
+import ifepson.commands.ImprTxtDNF;
+import ifepson.commands.ImprTxtFiscTique;
+import ifepson.commands.LeePrefUsuario;
+import ifepson.commands.PagoCancelDescRecaFNC;
+import ifepson.commands.PagoCancelDescRecaTique;
+import ifepson.commands.PercepcionFNC;
+import ifepson.commands.PrepararEstacion;
+import ifepson.commands.RepoMemFiscFecha;
+import ifepson.commands.RepoMemFiscZ;
+import ifepson.commands.SelPrefUsuario;
+import ifepson.commands.SetDatoFijo;
+import ifepson.commands.SetFechaHora;
+import ifepson.commands.SolEstado;
+import ifepson.commands.SubtotalFNC;
+import ifepson.commands.SubtotalTique;
 
 /**
  *

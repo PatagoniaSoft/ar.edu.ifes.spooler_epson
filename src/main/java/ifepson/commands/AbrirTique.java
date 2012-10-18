@@ -5,8 +5,8 @@
 package ifepson.commands;
 
 import ifepson.IfAction;
-import ifepson.RespuestaCheck;
 import ifepson.IfCommand;
+import ifepson.RespuestaCheck;
 import ifepson.doc.IndexedOut;
 import ifepson.doc.Parametro;
 

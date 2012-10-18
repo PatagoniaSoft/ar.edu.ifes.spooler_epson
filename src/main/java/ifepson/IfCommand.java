@@ -7,11 +7,12 @@ package ifepson;
 import gnu.io.CommPortIdentifier;
 import gnu.io.NoSuchPortException;
 import gnu.io.PortInUseException;
+import gnu.io.SerialPort;
 import gnu.io.UnsupportedCommOperationException;
 import ifepson.doc.DataType;
 import ifepson.doc.IndexedOut;
 import ifepson.doc.Parametro;
-import gnu.io.SerialPort;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -21,8 +22,10 @@ import java.util.EnumMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
+
 import myjob.func.general.GeneralFunc;
 import myjob.func.io.PortConfig;
+
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 

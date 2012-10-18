@@ -1,0 +1,36 @@
+[33mcommit a553844599380ba4f24a045be2d51482122930cd[m
+Author: Diego Cabrera <dscabrera@gmail.com>
+Date:   Mon Oct 15 22:27:31 2012 -0300
+
+    Renombro clases
+
+[33mcommit c6f95de34e0020b575a23281dd5002d8f5612390[m
+Author: Diego Cabrera <dscabrera@gmail.com>
+Date:   Mon Oct 15 22:07:46 2012 -0300
+
+    Segundo commit de proyecto en maven
+
+[33mcommit 428cd9739401e20d44f6c3368f9a4ca4a515dc60[m
+Merge: 13265e2 a75b0c3
+Author: Diego Cabrera <dscabrera@gmail.com>
+Date:   Mon Oct 15 21:52:29 2012 -0300
+
+    Merge branch 'master' of github.com:PatagoniaSoft/ar.edu.ifes.spooler_epson
+
+[33mcommit 13265e2227aaa62a6ffbeeedbc93a0694ac253d2[m
+Author: Diego Cabrera <dscabrera@gmail.com>
+Date:   Mon Oct 15 21:49:58 2012 -0300
+
+    primer commit prueba
+
+[33mcommit 2b868e98097b2e04fe4a1152e9da5fd8cced528b[m
+Author: Diego Cabrera <dscabrera@gmail.com>
+Date:   Fri Oct 12 19:41:52 2012 -0300
+
+    Primer version del proyecto spooler-epson en maven para git
+
+[33mcommit a75b0c3a1613b5f3c53f7e35dd7ce58006c718c1[m
+Author: Diego Cabrera <dscabrera@gmail.com>
+Date:   Fri Oct 12 15:33:34 2012 -0700
+
+    Initial commit
