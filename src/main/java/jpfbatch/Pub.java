@@ -6,6 +6,7 @@ package jpfbatch;
 
 import gnu.io.NoSuchPortException;
 import gnu.io.PortInUseException;
+import gnu.io.SerialPort;
 import gnu.io.UnsupportedCommOperationException;
 import ifepson.IfCommand;
 import ifepson.doc.IndexedOut;

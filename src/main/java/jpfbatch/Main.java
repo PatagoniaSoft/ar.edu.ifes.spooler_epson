@@ -34,11 +34,11 @@ public class Main {
 
         Pub.init(args);
         
-        //jpfbatch.tests.IFTest.doTiquetTest();
-        
+        jpfbatch.tests.IFTest.doTiquetTest();
+                
         
         //System.exit(0);
-        
+        /* INICIO COMENTARIO PARA PROBAR
         Pub.loadCommands();
 
         if (Pub.hasOption("help") || Pub.hasOption("Help")) {
@@ -136,7 +136,7 @@ public class Main {
         Logger.getLogger(IfBatch.class).log(Level.DEBUG, "Todo terminado");
 
         System.exit(0);
-
+         /*HASTA ACA COMENTO PROBANDO*/
     }
 
     public static String loadFile(String fileName) throws IOException {

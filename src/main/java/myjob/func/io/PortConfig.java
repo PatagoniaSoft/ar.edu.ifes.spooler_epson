@@ -11,12 +11,12 @@ package myjob.func.io;
  */
 public class PortConfig {
         protected Integer baudRate = 9600;
-        protected Integer dataBits = 7;
+        protected Integer dataBits = 8;
         protected Integer stopBits = 1;
         protected Integer parity = 0;
         private boolean setted = false;
-        String portName = "/dev/ttyS0";
-
+        //String portName = "/dev/ttyS0";
+        String portName = "/dev/pts/1";
 
     public PortConfig() {
 

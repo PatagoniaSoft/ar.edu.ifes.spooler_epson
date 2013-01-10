@@ -110,7 +110,7 @@ public class IfBatch {
 
         return IfBatch.FromLines(lines, timeOut, config, separador, largoDesc, comandos);
     }
-
+    
     /**
      * Lee el archivo fileName, lo separa en lineas y llama IFBatch.FromLines
      * @param fileName

@@ -26,12 +26,15 @@ public class IFTest {
     public static void doTiquetTest() throws IOException {
         
         IfBatch.InitRxTx("rxtx/linux_x86_64/");
+    	
+    	    	
         
         IfBatch ifb = new IfBatch();
         
         PortConfig pf = new PortConfig();
         
-        pf.setPortName("/dev/ttyS0");
+        //deberiamos cambiar el port name por /dev/stdout
+        pf.setPortName("/dev/pts/1");
         pf.setStopBits(1);
         pf.setParity(0);
         pf.setBaudRate(9600);
@@ -92,7 +95,7 @@ public class IFTest {
         
         ifb.run();
         
-        
+        		
         // acá vienen todas las respuestas
         // que pueden ser cualquiera de ifepson.doc.IndexedOut
         // hay que analizarlas para ver si viene con algun error
