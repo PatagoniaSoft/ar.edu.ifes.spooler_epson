@@ -1,0 +1,1531 @@
+18 nov 2012 19:20:02,263 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:20:02,401 138  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 19:20:02,438 175  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 19:20:20,523 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:20:20,546 23   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 19:20:20,556 33   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 19:20:37,318 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:20:37,340 22   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 19:20:37,349 31   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 19:39:54,160 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:55:37,603 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:55:37,623 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 19:55:37,633 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 19:56:19,979 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:56:20,009 30   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 19:56:20,020 41   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 19:56:32,761 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:56:32,781 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 19:56:32,791 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 19:57:13,343 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:57:13,364 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 19:57:13,373 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 19:57:25,340 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 19:57:25,361 22   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 19:57:25,370 31   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:07:22,698 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:07:22,719 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:07:22,728 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:09:38,669 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:09:38,725 56   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:09:38,782 113  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:10:22,708 44039 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+18 nov 2012 20:10:31,134 52465 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+18 nov 2012 20:11:28,545 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:11:28,598 53   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:11:28,626 81   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:11:37,323 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:11:37,377 54   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:11:37,403 80   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:12:19,654 42331 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+18 nov 2012 20:13:02,721 85398 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+18 nov 2012 20:13:26,207 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:13:26,227 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:13:26,236 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:13:26,278 71   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+18 nov 2012 20:13:26,279 72   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+18 nov 2012 20:13:36,549 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:13:36,570 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:13:36,579 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:13:36,617 68   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+18 nov 2012 20:13:36,618 69   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+18 nov 2012 20:13:47,665 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:13:47,722 57   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:13:47,740 75   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:14:14,984 27319 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+18 nov 2012 20:14:36,080 48415 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+18 nov 2012 20:16:22,380 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:16:22,442 62   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:16:22,458 78   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 nov 2012 20:16:32,848 10468 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+18 nov 2012 20:18:38,328 135948 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+18 nov 2012 20:46:51,695 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:46:51,812 117  [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+18 nov 2012 20:52:41,995 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 nov 2012 20:52:53,557 11562 [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 nov 2012 20:53:21,845 39850 [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 11:27:03,275 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 11:33:23,248 379973 [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+19 nov 2012 11:33:35,072 391797 [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 13:42:19,934 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 13:42:19,953 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+19 nov 2012 13:42:19,962 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 13:42:20,116 182  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 13:42:20,117 183  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 13:42:26,547 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 13:42:30,706 4159 [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+19 nov 2012 13:42:33,600 7053 [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 13:43:56,852 90305 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 13:44:02,045 95498 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 13:51:15,943 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 13:51:29,009 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 14:36:25,779 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 14:36:25,803 24   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+19 nov 2012 14:36:25,811 32   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 14:36:25,837 58   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 14:36:25,838 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 14:56:11,238 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 14:56:11,259 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en {user.home}/.m2/settings.xml
+19 nov 2012 14:56:11,267 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 14:56:11,294 56   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 14:56:11,295 57   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 14:56:33,708 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 14:56:33,727 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en user.home/.m2/settings.xml
+19 nov 2012 14:56:33,736 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 14:56:33,771 63   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 14:56:33,771 63   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 18:23:50,587 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 18:24:18,590 28003 [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx
+19 nov 2012 18:24:23,250 32663 [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 18:25:09,038 78451 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 18:25:11,107 80520 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 18:51:44,051 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 18:51:44,124 73   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en /home/diego/.m2/repository/org/rxtx/rxtx/2.1.7/
+19 nov 2012 18:51:44,205 154  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 18:51:44,315 264  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 18:51:44,315 264  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 18:58:14,816 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 18:58:14,838 22   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en /home/diego/.m2/repository/org/rxtx/rxtx/2.1.7/
+19 nov 2012 18:58:14,848 32   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 18:58:14,873 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 18:58:14,874 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 18:59:50,430 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 18:59:50,450 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en /home/diego/.m2/repository/org/rxtx/rxtx/2.1.7/
+19 nov 2012 18:59:50,460 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 18:59:50,486 56   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 18:59:50,486 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 19:38:15,490 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 19:38:15,510 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/
+19 nov 2012 19:38:15,518 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 19:38:15,543 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 19:38:15,544 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 19:41:56,897 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 19:41:56,915 18   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/
+19 nov 2012 19:41:56,924 27   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 19:41:56,950 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 19:41:56,951 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 19:43:36,927 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 19:43:36,977 50   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 19:44:18,836 41909 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 19:44:25,707 48780 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 20:11:08,870 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 20:11:08,899 29   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+19 nov 2012 20:11:08,908 38   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 20:11:08,962 92   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 20:11:08,963 93   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 20:16:28,964 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 20:16:28,985 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en ./rxtx/linux_x86_64/
+19 nov 2012 20:16:28,994 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 20:16:29,026 62   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 20:16:29,026 62   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 20:17:18,026 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 20:17:18,046 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en ./rxtx/linux_x86_64/
+19 nov 2012 20:17:18,056 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 20:17:18,084 58   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 20:17:18,084 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 20:18:02,851 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 20:18:02,871 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en /rxtx/linux_x86_64/
+19 nov 2012 20:18:02,880 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 20:18:02,906 55   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 20:18:02,907 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 20:35:16,862 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 20:35:16,883 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en /rxtx/linux_x86_64/
+19 nov 2012 20:35:16,893 31   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 20:35:16,920 58   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 20:35:16,921 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+19 nov 2012 20:36:19,563 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+19 nov 2012 20:36:19,584 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+19 nov 2012 20:36:19,593 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+19 nov 2012 20:36:19,619 56   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+19 nov 2012 20:36:19,619 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+20 nov 2012 18:25:33,821 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+20 nov 2012 18:25:34,138 317  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+20 nov 2012 18:25:34,236 415  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+20 nov 2012 18:25:34,481 660  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+20 nov 2012 18:25:34,481 660  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+20 nov 2012 18:25:45,350 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+20 nov 2012 18:25:45,369 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+20 nov 2012 18:25:45,378 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+20 nov 2012 18:25:45,404 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+20 nov 2012 18:25:45,404 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+20 nov 2012 18:27:00,009 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+20 nov 2012 18:27:00,029 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+20 nov 2012 18:27:00,038 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+20 nov 2012 18:27:00,066 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+20 nov 2012 18:27:00,066 57   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+20 nov 2012 19:00:41,374 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+20 nov 2012 19:00:41,394 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+20 nov 2012 19:00:41,403 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+20 nov 2012 19:00:41,432 58   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+20 nov 2012 19:00:41,432 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+20 nov 2012 19:13:44,955 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+20 nov 2012 19:13:44,974 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+20 nov 2012 19:13:44,983 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+20 nov 2012 19:13:45,014 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+20 nov 2012 19:13:45,015 60   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+20 nov 2012 19:16:56,389 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+20 nov 2012 19:16:56,408 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+20 nov 2012 19:16:56,416 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+20 nov 2012 19:16:56,444 56   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+20 nov 2012 19:16:56,444 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+20 nov 2012 19:26:41,190 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+20 nov 2012 19:26:41,209 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en /home/diego/.m2/repository/org/rxtx/rxtx/2.1.7/
+20 nov 2012 19:26:41,218 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+20 nov 2012 19:26:41,243 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+20 nov 2012 19:26:41,244 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+22 nov 2012 13:35:05,989 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+22 nov 2012 13:35:06,066 77   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+22 nov 2012 13:35:06,127 138  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+22 nov 2012 13:35:06,212 223  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+22 nov 2012 13:35:06,213 224  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+22 nov 2012 14:01:12,429 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+22 nov 2012 14:01:12,448 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+22 nov 2012 14:01:12,483 54   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+22 nov 2012 14:01:12,509 80   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+22 nov 2012 14:01:12,510 81   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+22 nov 2012 14:29:14,618 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+22 nov 2012 14:29:14,640 22   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+22 nov 2012 14:29:14,650 32   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+22 nov 2012 14:29:14,682 64   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+22 nov 2012 14:29:14,682 64   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+22 nov 2012 14:36:17,303 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+22 nov 2012 14:36:17,327 24   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+22 nov 2012 14:36:17,337 34   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+22 nov 2012 14:36:17,375 72   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+22 nov 2012 14:36:17,376 73   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+22 nov 2012 14:41:30,670 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+22 nov 2012 14:41:30,693 23   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+22 nov 2012 14:41:30,702 32   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+22 nov 2012 14:41:30,740 70   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+22 nov 2012 14:41:30,740 70   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+22 nov 2012 14:43:06,140 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+22 nov 2012 14:43:06,160 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+22 nov 2012 14:43:06,169 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+22 nov 2012 14:43:06,201 61   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+22 nov 2012 14:43:06,201 61   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+22 nov 2012 14:48:23,775 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+22 nov 2012 14:48:23,794 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+22 nov 2012 14:48:23,803 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+22 nov 2012 14:48:23,834 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+22 nov 2012 14:48:23,834 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+22 nov 2012 14:48:23,853 78   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 07:51:20,952 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 07:51:21,042 90   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 07:51:21,064 112  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 07:51:21,109 157  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 07:51:21,109 157  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 07:51:21,136 184  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 07:52:51,608 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 07:52:51,624 16   [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+23 nov 2012 07:53:54,502 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 07:53:54,520 18   [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+23 nov 2012 07:53:57,800 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 07:53:57,818 18   [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+23 nov 2012 07:55:04,833 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 07:55:04,854 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 07:55:04,863 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 07:55:04,891 58   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 07:55:04,892 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 07:55:04,910 77   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 07:57:37,840 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 07:57:37,860 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 07:57:37,869 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 07:57:37,894 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 07:57:37,894 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 07:57:37,913 73   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 09:38:53,120 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 09:38:53,139 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 09:38:53,149 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 09:38:53,174 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 09:38:53,174 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 09:38:53,193 73   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 10:24:22,354 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 10:24:22,375 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 10:24:22,384 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 10:24:22,412 58   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 10:24:22,412 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 10:24:22,459 105  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 10:27:35,809 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 10:27:35,829 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 10:27:35,838 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 10:27:35,863 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 10:27:35,863 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 10:27:35,890 81   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 11:48:10,145 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 11:48:10,164 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 11:48:10,173 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 11:48:10,201 56   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 11:48:10,201 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 11:48:10,219 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 12:13:15,922 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 12:13:15,943 22   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 12:13:15,977 56   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 12:13:16,005 84   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 12:13:16,005 84   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 12:13:16,024 103  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 12:20:47,616 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 12:20:47,636 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 12:20:47,645 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 12:20:47,677 61   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 12:20:47,678 62   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 12:20:47,700 84   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 12:23:06,603 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 12:23:06,622 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 12:23:06,631 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 12:23:06,656 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 12:23:06,656 53   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 12:23:06,676 73   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 12:24:58,720 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 12:24:58,740 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 12:24:58,749 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 12:24:58,775 55   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 12:24:58,775 55   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 12:24:58,794 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 12:30:32,743 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 12:30:32,763 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 12:30:32,773 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 12:30:32,799 56   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 12:30:32,800 57   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 12:30:32,818 75   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 12:38:21,566 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 12:38:21,585 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 12:38:21,594 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 12:38:21,623 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 12:38:21,624 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 12:38:21,644 78   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 12:43:54,733 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 12:43:54,753 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 12:43:54,762 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 12:43:54,792 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 12:43:54,792 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 12:43:54,827 94   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 12:45:09,668 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 12:45:09,688 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 12:45:09,697 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 12:45:09,735 67   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 12:45:09,735 67   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 12:45:09,754 86   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+23 nov 2012 13:40:27,665 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+23 nov 2012 13:40:27,684 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+23 nov 2012 13:40:27,692 27   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+23 nov 2012 13:40:27,717 52   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+23 nov 2012 13:40:27,717 52   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+23 nov 2012 13:40:27,736 71   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 11:00:37,132 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 11:00:37,251 119  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 11:00:37,289 157  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 11:00:37,383 251  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 11:00:37,383 251  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 11:00:37,437 305  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 11:06:24,197 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 11:06:24,217 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 11:06:24,226 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 11:06:24,254 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 11:06:24,255 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 11:06:24,276 79   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 11:17:30,326 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 11:17:30,346 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 11:17:30,355 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 11:17:30,384 58   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 11:17:30,384 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 11:17:30,404 78   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 11:25:35,152 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 11:25:35,171 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 11:25:35,181 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 11:25:35,211 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 11:25:35,212 60   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 11:25:35,249 97   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 11:34:52,867 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 11:34:52,888 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 11:34:52,897 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 11:34:52,924 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 11:34:52,925 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 11:34:52,982 115  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 11:50:26,450 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 11:50:26,473 23   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 11:50:26,498 48   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 11:50:26,539 89   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 11:50:26,540 90   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 11:50:26,562 112  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 11:51:11,227 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 11:51:11,263 37   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 11:51:11,275 49   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 11:51:11,313 87   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 11:51:11,314 88   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 11:51:11,344 118  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 11:52:33,390 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 11:52:33,415 25   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 11:52:33,425 35   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 11:52:33,473 83   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 11:52:33,474 84   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 11:52:33,500 110  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 12:00:45,260 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:00:45,284 24   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 12:00:45,293 33   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 12:00:45,325 65   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 12:00:45,326 66   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 12:00:45,375 115  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 12:06:26,613 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:06:26,664 51   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 12:06:26,679 66   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 12:06:41,269 14656 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 12:06:45,326 18713 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 12:06:45,390 18777 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 12:07:13,388 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:07:13,430 42   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 12:07:13,443 55   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 12:08:15,605 62217 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 12:08:26,234 72846 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 12:08:26,302 72914 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 12:14:20,491 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:14:20,538 47   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 12:14:20,554 63   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 12:14:41,966 21475 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 12:14:44,657 24166 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 12:14:44,712 24221 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 12:39:13,756 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:39:13,792 36   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 12:39:13,803 47   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 12:40:44,496 90740 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 12:41:04,575 110819 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 12:41:04,627 110871 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 12:43:32,264 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:43:46,986 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:43:47,049 64   [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+27 nov 2012 12:45:16,870 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:45:30,456 13586 [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+27 nov 2012 12:45:42,559 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:45:42,580 21   [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+27 nov 2012 12:45:46,165 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:45:46,184 19   [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+27 nov 2012 12:45:52,802 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:48:02,909 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 12:48:02,927 18   [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+27 nov 2012 13:10:24,744 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:10:24,761 17   [main] DEBUG jpfbatch.Main.main(Main.java:136)  - Todo terminado
+27 nov 2012 13:10:48,867 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:10:48,887 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:10:48,896 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:10:48,926 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:10:48,926 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:10:48,977 110  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:11:14,903 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:11:14,924 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:11:14,933 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:11:14,960 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:11:14,961 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:11:14,984 81   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:11:35,240 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:11:36,740 1500 [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:11:36,761 1521 [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:11:51,733 16493 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:12:07,211 31971 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:12:07,267 32027 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:12:57,140 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:12:57,159 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:12:57,169 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:12:57,194 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:12:57,195 55   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:12:57,214 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:28:39,160 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:28:39,180 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:28:39,189 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:28:39,217 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:28:39,218 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:28:39,240 80   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:29:00,686 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:29:00,706 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:29:00,715 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:29:00,741 55   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:29:00,742 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:29:00,762 76   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:33:32,403 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:33:32,422 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:33:32,431 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:33:32,456 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:33:32,457 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:33:32,479 76   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:33:42,954 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:33:42,974 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:33:42,983 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:33:43,009 55   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:33:43,009 55   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:33:43,030 76   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:34:57,257 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:34:58,459 1202 [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:34:58,481 1224 [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:35:03,200 5943 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:36:19,047 81790 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:36:19,106 81849 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:36:44,383 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:36:44,428 45   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:36:44,445 62   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:37:03,379 18996 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:38:26,289 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:38:26,329 41   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:38:26,339 51   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:38:33,632 7344 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:38:36,122 9834 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:38:36,182 9894 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 13:38:43,678 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:38:43,727 49   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:38:43,744 66   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:55:11,398 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 13:55:11,417 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 13:55:11,426 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 13:55:11,453 55   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 13:55:11,454 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 13:55:11,473 75   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 14:34:44,749 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 14:34:44,768 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 14:34:44,777 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 14:34:44,803 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 14:34:44,803 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 14:34:44,824 75   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+27 nov 2012 15:01:57,076 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+27 nov 2012 15:01:57,095 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+27 nov 2012 15:01:57,104 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+27 nov 2012 15:01:57,135 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+27 nov 2012 15:01:57,135 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+27 nov 2012 15:01:57,154 78   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+18 dic 2012 11:31:30,950 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+18 dic 2012 11:31:31,090 140  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+18 dic 2012 11:31:31,152 202  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+18 dic 2012 11:31:31,254 304  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+18 dic 2012 11:31:31,255 305  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+18 dic 2012 11:31:31,341 391  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+03 ene 2013 11:37:09,553 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+03 ene 2013 11:37:09,700 147  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+03 ene 2013 11:37:09,762 209  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+03 ene 2013 11:37:09,869 316  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+03 ene 2013 11:37:09,869 316  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+03 ene 2013 11:37:09,942 389  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+05 ene 2013 13:12:32,152 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+05 ene 2013 13:12:32,264 112  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+05 ene 2013 13:12:32,292 140  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+05 ene 2013 13:12:32,369 217  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+05 ene 2013 13:12:32,370 218  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+05 ene 2013 13:12:32,402 250  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+05 ene 2013 19:58:03,463 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+05 ene 2013 19:58:03,522 59   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+05 ene 2013 19:58:03,549 86   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+05 ene 2013 19:58:03,597 134  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+05 ene 2013 19:58:03,597 134  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+05 ene 2013 19:58:03,632 169  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+05 ene 2013 20:04:16,219 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+05 ene 2013 20:04:16,238 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+05 ene 2013 20:04:16,247 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+05 ene 2013 20:04:16,272 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+05 ene 2013 20:04:16,272 53   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+05 ene 2013 20:04:16,299 80   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+07 ene 2013 08:44:34,905 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+07 ene 2013 08:44:35,034 129  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+07 ene 2013 08:44:35,104 199  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+07 ene 2013 08:44:35,223 318  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+07 ene 2013 08:44:35,223 318  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+07 ene 2013 08:44:35,258 353  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+07 ene 2013 09:50:54,434 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+07 ene 2013 09:50:54,563 130  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+07 ene 2013 09:50:54,626 193  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+07 ene 2013 09:50:54,761 328  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+07 ene 2013 09:50:54,761 328  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+07 ene 2013 09:50:54,798 365  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+07 ene 2013 09:51:44,116 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+07 ene 2013 09:51:44,137 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+07 ene 2013 09:51:44,147 31   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+07 ene 2013 09:51:44,177 61   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+07 ene 2013 09:51:44,177 61   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+07 ene 2013 09:51:44,202 86   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+07 ene 2013 09:52:11,895 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+07 ene 2013 09:52:11,914 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+07 ene 2013 09:52:11,923 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+07 ene 2013 09:52:11,948 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+07 ene 2013 09:52:11,948 53   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+07 ene 2013 09:52:11,969 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+07 ene 2013 09:54:31,628 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+07 ene 2013 09:54:31,647 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+07 ene 2013 09:54:31,656 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+07 ene 2013 09:54:31,683 55   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+07 ene 2013 09:54:31,684 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+07 ene 2013 09:54:31,776 148  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+07 ene 2013 10:08:31,737 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+07 ene 2013 10:08:31,863 126  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+07 ene 2013 10:08:31,932 195  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+07 ene 2013 10:08:32,071 334  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+07 ene 2013 10:08:32,071 334  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+07 ene 2013 10:08:32,101 364  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+07 ene 2013 13:31:32,796 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+07 ene 2013 13:31:33,053 257  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+07 ene 2013 13:31:33,110 314  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+07 ene 2013 13:31:33,232 436  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+07 ene 2013 13:31:33,232 436  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+07 ene 2013 13:31:33,271 475  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+07 ene 2013 20:19:58,741 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+07 ene 2013 20:19:58,960 219  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+07 ene 2013 20:19:59,061 320  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+07 ene 2013 20:19:59,278 537  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+07 ene 2013 20:19:59,278 537  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+07 ene 2013 20:19:59,315 574  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 08:13:55,074 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 08:13:55,218 144  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 08:13:55,273 199  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 08:13:55,409 335  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 08:13:55,410 336  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 08:13:55,445 371  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 08:16:39,739 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 08:16:39,759 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 08:16:39,768 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 08:16:39,795 56   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 08:16:39,795 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 08:16:39,813 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 08:21:27,226 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 08:21:27,247 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 08:21:27,257 31   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 08:21:27,286 60   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 08:21:27,286 60   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 08:21:27,304 78   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 08:54:33,403 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 08:54:33,422 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 08:54:33,431 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 08:54:33,457 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 08:54:33,488 85   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 08:54:33,511 108  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 08:55:04,161 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 08:55:04,197 36   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 08:55:04,214 53   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 08:55:04,287 126  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 08:55:04,290 129  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 08:55:04,332 171  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 09:03:59,793 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 09:03:59,954 161  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 09:04:00,022 229  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 09:04:00,156 363  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 09:04:00,156 363  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 09:04:00,196 403  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 09:05:43,043 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 09:05:43,066 23   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 09:05:43,075 32   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 09:05:43,102 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 09:05:43,102 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 09:05:43,126 83   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 09:48:42,535 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 09:48:42,556 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 09:48:42,565 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 09:48:42,592 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 09:48:42,593 58   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 09:48:42,614 79   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 10:00:36,103 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 10:00:36,123 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 10:00:36,132 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 10:00:36,158 55   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 10:00:36,158 55   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 10:00:36,176 73   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 10:08:00,767 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 10:08:00,786 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 10:08:00,795 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 10:08:00,820 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 10:08:00,820 53   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 10:08:00,841 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 10:14:13,034 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 10:14:13,054 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 10:14:13,062 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 10:14:13,088 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 10:14:13,089 55   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 10:14:13,108 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 10:15:15,798 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 10:15:15,817 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 10:15:15,826 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 10:15:15,850 52   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 10:15:15,851 53   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 10:15:15,870 72   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 10:18:00,984 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 10:18:01,002 18   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 10:18:01,011 27   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 10:18:01,035 51   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 10:18:01,036 52   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 10:18:01,059 75   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 10:42:39,486 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 10:42:39,505 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 10:42:39,513 27   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 10:42:39,538 52   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 10:42:39,539 53   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 10:42:39,562 76   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 10:50:19,235 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 10:50:19,255 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 10:50:19,263 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 10:50:19,292 57   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 10:50:19,292 57   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 10:50:19,312 77   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 11:26:32,580 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 11:26:32,600 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 11:26:32,609 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 11:26:32,638 58   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 11:26:32,639 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 11:26:32,660 80   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 13:42:47,243 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 13:42:47,552 309  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 13:42:47,625 382  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 13:42:47,915 672  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 13:42:47,916 673  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 13:42:47,947 704  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 13:46:03,078 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 13:46:03,098 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 13:46:03,107 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 13:46:03,133 55   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 13:46:03,134 56   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 13:46:03,157 79   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 13:47:22,218 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 13:47:22,237 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 13:47:22,246 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 13:47:22,272 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 13:47:22,272 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 13:47:22,292 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 13:47:42,604 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 13:47:42,626 22   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 13:47:42,636 32   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 13:47:42,664 60   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 13:47:42,664 60   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 13:47:42,686 82   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 13:52:02,281 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 13:52:02,924 644  [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 13:52:03,119 839  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 13:52:03,402 1122 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 13:52:03,402 1122 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 13:52:03,549 1269 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 13:53:17,724 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 13:53:17,742 18   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 13:53:17,751 27   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 13:53:17,776 52   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 13:53:17,776 52   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 13:53:17,794 70   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 13:56:18,744 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 13:56:18,776 33   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 13:56:18,791 48   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 13:56:18,829 86   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 13:56:18,830 87   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 13:56:18,864 121  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 14:43:13,530 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 14:43:13,552 22   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 14:43:13,561 31   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 14:43:13,589 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 14:43:13,589 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 14:43:13,807 277  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 14:51:26,444 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 14:51:26,463 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 14:51:26,471 27   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 14:51:26,496 52   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 14:51:26,496 52   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 14:51:26,518 74   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 14:56:22,610 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 14:56:22,631 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 14:56:22,641 31   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 14:56:22,669 59   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 14:56:22,669 59   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 14:56:22,691 81   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 14:58:25,582 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 14:58:25,601 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 14:58:25,610 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 14:58:25,636 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 14:58:25,637 55   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 14:58:25,657 75   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 15:02:31,820 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 15:02:31,840 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 15:02:31,849 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 15:02:31,884 64   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 15:02:31,885 65   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 15:02:31,904 84   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 15:02:36,259 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 15:02:36,278 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 15:02:36,287 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 15:02:36,312 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 15:02:36,313 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 15:02:36,334 75   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 15:02:50,541 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 15:02:50,560 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 15:02:50,569 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 15:02:50,594 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 15:02:50,594 53   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 15:02:50,613 72   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 15:02:57,761 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 15:02:57,781 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 15:02:57,790 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 15:02:57,823 62   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 15:02:57,823 62   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 15:02:57,843 82   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 15:03:09,985 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 15:03:10,004 19   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 15:03:10,013 28   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 15:03:10,037 52   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 15:03:10,038 53   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 15:03:10,060 75   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:26:27,209 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:26:27,274 65   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:26:27,352 143  [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:26:27,453 244  [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:26:27,454 245  [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:26:27,491 282  [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:28:26,188 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:28:26,208 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:28:26,217 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:28:26,242 54   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:28:26,242 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:28:26,269 81   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:29:03,726 1    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:29:03,745 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:29:03,754 29   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:29:03,778 53   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:29:03,779 54   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:29:03,798 73   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:35:24,247 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:35:24,301 54   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:35:24,321 74   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:35:47,061 22814 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:36:21,374 57127 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:36:21,429 57182 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:36:35,702 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:36:35,736 34   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:36:35,756 54   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:36:45,902 10200 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:37:34,228 58526 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:37:34,288 58586 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:39:31,466 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:39:31,487 21   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:39:31,496 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:39:31,528 62   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:39:31,528 62   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:39:31,547 81   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:97)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:41:40,862 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:41:40,885 23   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:41:40,894 32   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:41:40,925 63   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:41:40,926 64   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:41:40,947 85   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:97)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:42:18,588 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:42:18,608 20   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:42:18,618 30   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:42:18,649 61   [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:42:18,649 61   [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:42:18,670 82   [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:50:25,506 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:50:25,545 39   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:50:25,562 56   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 21:50:51,154 25648 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 21:50:53,852 28346 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 21:57:25,781 420275 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 21:59:19,626 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 21:59:19,666 40   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 21:59:19,684 58   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 22:03:26,520 246894 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 22:03:26,522 246896 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
+08 ene 2013 22:03:40,555 260929 [main] ERROR ifepson.IfCommand.ejecutar(IfCommand.java:317)  - El puerto no existe
+gnu.io.NoSuchPortException
+	at gnu.io.CommPortIdentifier.getPortIdentifier(CommPortIdentifier.java:218)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:315)
+	at ifepson.IfCommand.ejecutar(IfCommand.java:278)
+	at jpfbatch.IfBatch.run(IfBatch.java:262)
+	at jpfbatch.tests.IFTest.doTiquetTest(IFTest.java:96)
+	at jpfbatch.Main.main(Main.java:37)
+08 ene 2013 22:04:01,407 0    [main] DEBUG jpfbatch.Pub.<clinit>(Pub.java:108)  - pub iniciado
+08 ene 2013 22:04:01,447 40   [main] DEBUG jpfbatch.IfBatch.InitRxTx(IfBatch.java:92)  - utilizando driver ubicado en rxtx/linux_x86_64/
+08 ene 2013 22:04:01,461 54   [main] DEBUG jpfbatch.IfBatch.<init>(IfBatch.java:83)  - Secuencia seteada en 32
+08 ene 2013 22:04:31,972 30565 [main] DEBUG jpfbatch.IfBatch.run(IfBatch.java:258)  - Enviando comando TIQUEABRE  nro de serie:  32
+08 ene 2013 22:04:34,381 32974 [main] DEBUG ifepson.IfCommand.ejecutar(IfCommand.java:302)  - Iniciendo ejecucion de TIQUEABRE con el puerto cerrado
